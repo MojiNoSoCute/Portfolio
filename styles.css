@@ -51,6 +51,15 @@ nav ul {
     margin-top: 10px;
     color: #333;
     background-color: #7fb9e6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+nav ul-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
 nav ul li {
