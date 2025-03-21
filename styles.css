@@ -44,18 +44,19 @@ header {
 
 header h1 {
     margin-bottom: 5px;
-    color: #333
+    color: #333;
 }
 
 nav ul {
     margin-top: 10px;
-    color: #333
+    color: #333;
+    background-color: #7fb9e6;
 }
 
 nav ul li {
     display: inline;
     margin: 0 15px;
-    color: #333
+    color: #333;
 }
 
 nav ul li a {
