@@ -49,27 +49,20 @@ header h1 {
 
 nav ul {
     margin-top: 10px;
-    color: #333;
+    color: #fbfbfb;
     background-color: #7fb9e6;
     padding: 20px;
     border-radius: 8px;
 }
 
-nav ul-grid {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
 nav ul li {
     display: inline;
     margin: 0 15px;
-    color: #333;
+    color: #ffffff;
 }
 
 nav ul li a {
-    color: #333;
+    color: #ffffff;
     font-weight: bold;
 }
 
